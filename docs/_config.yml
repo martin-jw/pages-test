@@ -1,5 +1,6 @@
 name: Pages Test
 title: Pages Test
+description: Testing GitHub pages
 theme: minima
 
 defaults:
