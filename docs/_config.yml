@@ -1,2 +1,10 @@
 name: Pages Test
+title: Pages Test
 theme: minima
+
+defaults:
+  - 
+    scope:
+      path: ""
+    values:
+      author: "Martin Jirlow"
